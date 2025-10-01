@@ -1,5 +1,9 @@
-# Project Name
-Put here a short paragraph describing your project. 
+# Platform Fighter with Rollback Template
+This project is a template of a platform fighter in Godot.
+This should contain all the necessary ingredients to construct your own platform fighting game.
+This project should contain a main menu, character select screen, stage select screen, and a stage with two characters. 
+A uml diagram should also be included to show the structure and flow of the project.
+
 Adding an screenshot or a mockup of your application in action would be nice.  
 
 ![This is a screenshot.](images.png)
