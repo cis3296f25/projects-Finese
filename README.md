@@ -4,8 +4,11 @@ This should contain all the necessary ingredients to construct your own platform
 This project should contain a main menu, character select screen, stage select screen, and a stage with two characters. 
 A uml diagram should also be included to show the structure and flow of the project.
 
+This is a proof of concept I've found online.
+https://www.reddit.com/r/godot/comments/1k7prb4/finally_got_rollback_netcode_working_in_my_godot/
 https://github.com/user-attachments/assets/9d180734-1831-4db3-8a85-2041a752b468
 
+<!--
 # How to run
 Provide here instructions on how to use your application.   
 - Download the latest binary from the Release section on the right on GitHub.  
@@ -29,3 +32,4 @@ Follow this project board to know the latest status of the project: [http://...]
 - Specify additional library to download if needed 
 - What file and target to compile and run. 
 - What is expected to happen when the app start. 
+-->
