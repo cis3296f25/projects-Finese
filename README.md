@@ -6,8 +6,6 @@ A uml diagram should also be included to show the structure and flow of the proj
 
 https://github.com/user-attachments/assets/9d180734-1831-4db3-8a85-2041a752b468
 
-
-![This is a screenshot.](images.png)
 # How to run
 Provide here instructions on how to use your application.   
 - Download the latest binary from the Release section on the right on GitHub.  
