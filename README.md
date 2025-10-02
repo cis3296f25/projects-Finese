@@ -6,6 +6,7 @@ A uml diagram should also be included to show the structure and flow of the proj
 
 This is a proof of concept I've found online.
 https://www.reddit.com/r/godot/comments/1k7prb4/finally_got_rollback_netcode_working_in_my_godot/
+
 https://github.com/user-attachments/assets/9d180734-1831-4db3-8a85-2041a752b468
 
 <!--
