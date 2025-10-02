@@ -4,7 +4,8 @@ This should contain all the necessary ingredients to construct your own platform
 This project should contain a main menu, character select screen, stage select screen, and a stage with two characters. 
 A uml diagram should also be included to show the structure and flow of the project.
 
-Adding an screenshot or a mockup of your application in action would be nice.  
+https://github.com/user-attachments/assets/9d180734-1831-4db3-8a85-2041a752b468
+
 
 ![This is a screenshot.](images.png)
 # How to run
