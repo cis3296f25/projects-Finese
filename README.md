@@ -9,6 +9,10 @@ https://www.reddit.com/r/godot/comments/1k7prb4/finally_got_rollback_netcode_wor
 
 https://github.com/user-attachments/assets/9d180734-1831-4db3-8a85-2041a752b468
 
+# How to run
+Download Godot 4.5
+https://godotengine.org/
+Open Godot and import the folder from this repository.
 <!--
 # How to run
 Provide here instructions on how to use your application.   
